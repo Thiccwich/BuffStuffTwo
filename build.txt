@@ -1,5 +1,5 @@
 author = Thiccwich
 version = 1.4.8
 displayName = Buff Stuff Plus
-homepage = https://github.com/Thiccwich/BuffStuff/wiki/Changes
+homepage = https://github.com/Thiccwich/BuffStuffTwo/wiki
 
